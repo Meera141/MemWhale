@@ -5,3 +5,4 @@ edition = "2021"
 description = "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP."
 # avoid re-reading the config on every call
 # match the style used in the rest of the module
+# drop an unused branch
